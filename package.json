@@ -1,0 +1,24 @@
+{
+  "name": "atividade-padroes-criacionais",
+  "version": "1.0.0",
+  "description": "Atividade-Padroes-Criacionais tem como objetivo desenvolver os conceitos vistos em aula e aplicar os padrões em atividades praticas",
+  "homepage": "https://github.com/NickolasHardRock/Atividade-Padroes-Criacionais#readme",
+  "bugs": {
+    "url": "https://github.com/NickolasHardRock/Atividade-Padroes-Criacionais/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NickolasHardRock/Atividade-Padroes-Criacionais.git"
+  },
+  "license": "ISC",
+  "author": "Nickolas Lamin",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "\"echo \\\"Error: no test specified\\\" && exit 1\""
+  },
+  "dependencies": {
+    "sequelize": "^6.37.8",
+    "sqlite3": "^6.0.1"
+  }
+}
